@@ -23,4 +23,14 @@ This is my first local change to the repo!
 
 [Link Text](https://www.google.com/)
 
-![An image of cat] (http://placekitten.com/200/300)
+![An image of cat](http://placekitten.com/200/300)
+
+![An image of Mona Lisa](readmeimage/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```
+function helloworld(){
+    console.log("hello world")
+}
+```
+
+> This is a blackquote
