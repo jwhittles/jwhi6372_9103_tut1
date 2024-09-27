@@ -23,4 +23,4 @@ The code above simply creates a background with the rgb colour scheme with an op
 ## Provide an image or screenshot showcasing the coding technique in action, along with a link to an example implementation (including a link to some example code).
 https://www.w3schools.com/css/css_image_transparency.asp#:~:text=Transparency%20using%20RGBA&text=In%20addition%20to%20RGB%2C%20you,and%201.0%20(fully%20opaque).
 
-![Opacity](Opacity.png)
+![Opacity](Opacity.jpg)
